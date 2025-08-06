@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"静空"
+		]
+	},
+	"header": {
+		"name": "JavaRegene / Java風-自然回復 v.2",
+		"description": "",
+		"min_engine_version": [
+			1,
+			20,
+			60
+		],
+		"uuid": "bebd33ca-2cd3-47d8-a1b2-6ae2a4832c37",
+		"version": [
+			2,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "ddfee608-f018-44e9-9442-5237c5070ad7",
+			"entry": "scripts/main.js",
+			"version": [
+				2,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.1.0"
+		}
+	]
+}
