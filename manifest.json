@@ -6,17 +6,17 @@
 		]
 	},
 	"header": {
-		"name": "JavaRegene / Java風-自然回復 v.2",
+		"name": "JavaRegene / Java風-自然回復 ver.1.2.0",
 		"description": "",
 		"min_engine_version": [
 			1,
 			20,
 			60
 		],
-		"uuid": "bebd33ca-2cd3-47d8-a1b2-6ae2a4832c37",
+		"uuid": "dca97463-fdf1-43d4-9795-0eafdc75794a",
 		"version": [
+			1,
 			2,
-			0,
 			0
 		]
 	},
@@ -24,11 +24,11 @@
 		{
 			"type": "script",
 			"language": "javascript",
-			"uuid": "ddfee608-f018-44e9-9442-5237c5070ad7",
+			"uuid": "bbeadb78-5e45-45d3-890f-cc0b107ecc65",
 			"entry": "scripts/main.js",
 			"version": [
+				1,
 				2,
-				0,
 				0
 			]
 		}
